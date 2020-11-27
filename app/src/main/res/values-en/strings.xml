@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" Game Cards"</string>
+    <string name="numero_jugadores">" Number of Players"</string>
+    <string name="numero_cartas">" Number of Cards"</string>
+    <string name="comenzar">Start</string>
+    <string name="titulo">Card game</string>
+</resources>

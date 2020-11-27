@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JuegoCartas</string>
+    <string name="numero_jugadores" >Numero Jugadores</string>
+    <string name="numero_cartas" >Número Cartas</string>
+    <string name="comenzar" >Comenzar</string>
+    <string name="titulo" >Juego de las Cartas</string>
+</resources>
